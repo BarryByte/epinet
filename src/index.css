@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* // tailwind.config.js */
+:root {
+  --background: #ffffff;
+  --neon-green: #0ab638;
+  --neon-red: #FF073A;
+  --neon-pink: #FF6EC7;
+  --neon-purple: #B026FF;
+  --neon-yellow: #f32a0f;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--neon-green);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
