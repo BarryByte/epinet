@@ -2,7 +2,7 @@
 
 EpiNet is an interactive web-based tool that simulates the spread of an infectious disease over a network using the **SIR (Susceptible–Infected–Recovered)** model. It visualizes how infections propagate through connections in a network, with real-time animations and statistical charts.
 
----
+## [Loom demo video link](https://www.loom.com/share/bfbe0d0c94bb49de96052674c6011b77?sid=50caeb9a-208f-4146-a07a-d8876dc21ba6)
 
 ## 🎯 Features
 
